@@ -8,6 +8,7 @@
 </template>
 
 <script>
+/* eslint-disable */
 import axios from 'axios'
 import { mapMutations } from 'vuex'
 
